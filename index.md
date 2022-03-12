@@ -1,37 +1,93 @@
-## Welcome to GitHub Pages
+# Overview
 
-You can use the [editor on GitHub](https://github.com/discosat/groundstation-workshop/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![](https://discosat.dk/wp-content/uploads/2022/01/satnogs.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The DISCO project will launch 3 satellites into Low Earth Orbit over the next three years. To communicate with the satellites we need to have ground stations that manage the radio communications links for telemetry and data transfer.
 
-### Markdown
+The DISCO project is building both fixed ground stations at the participating universities, as well as mobile ground stations that can be loaned to schools in the program.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+In this workshop we cover the basics of ground station operation and building including demos and a chance to get hands on experience with a range of equipment, both mobile and some new fixed equipment that will be installed at ITU.
 
-```markdown
-Syntax highlighted code block
+# Website
 
-# Header 1
-## Header 2
-### Header 3
+<https://discosat.dk/index.php/2022/01/groundstation-workshop/>
 
-- Bulleted
-- List
+# Location
 
-1. Numbered
-2. List
+Air Lab
+IT University of Copenhagen  
+Rued Langgaards Vej 7  
+2300 København S  
+Denmark 
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+# Parking
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Parking is accessed from Rued Langaards Vej - please contact jucp at itu.dk for a parking ticket. 
 
-### Jekyll Themes
+# Program
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/discosat/groundstation-workshop/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+14.03.2022
 
-### Support or Contact
+-   0930 coffee
+-   1000 introduction
+-   1030 workshop session 1
+-   1200 lunch
+-   1230 workshop session 2
+-   1400 coffee
+-   1430 workshop session 3
+-   1545 discussion
+-   1600 close
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+The day is structured in 3 workshop sessions and a number of topics. Try 2 or 3 different topics in the day in small groups.
+
+# Topics
+
+- Satellite tracking model with Paul Rosero
+- Satellite rotator operation with Julian Priest
+- Satellite antenna mounting with Jonas and Emil
+- Low cost satellite ground station with Eric Weiss
+- Basic SDR and demodulation with Sebastin Buettrich
+- Satellite observation with Julian Priest
+1. 1030
+2. 1211
+- Satellite dish link budgets exercise
+
+# Catering
+
+We will supply coffee and tea at the workshop breaks. Additional coffees can be collected from Analog student run cafe on the ground floor. Please mention you are part of the discosat workshop.
+
+Lunch can be purchased at the canteen.
+
+# Equipment
+
+Please bring a laptop
+
+# Network
+
+Please use the **ITU-guest** Wifi network or **Eduroam**.
+
+For **ITU-guest** choose the network, then open your browser and enter your phone number at the network login page. You will be sent an access code valid for the day by sms.
+
+# Documentation
+
+This is a hands on workshop and we would like to take the opportunity to begin a knowledge base on DISCOS ground station topics. 
+
+We have provided basic notes for each topic and activity, and would like you to extend this during the day.
+
+For this workshop we will try out using a github repository and wiki to generate documentation of the day.
+
+Please add documentation to this github wiki. Please add comments, clarifications, links or or other resources you find to any of the workshop activity pages. Feel free to start new pages as necessary.
+
+Create a Github account [here](https://github.com/join). Github uses markdown for formatting plain text and you can find out how to write text in markdown using this [style guide](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+
+# Resources
+
+- File archive <https://cloud.phys.au.dk/nextcloud/>
+- Website <http://discosat.dk>
+- Slack channel <https://disco-network.slack.com/> [#mobilejordstationer](https://disco-network.slack.com/archives/C01RR1TJSJ1)
+
+
+
+
+
