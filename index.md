@@ -55,7 +55,8 @@ The day is structured in 3 workshop sessions and a number of topics. Try 2 or 3 
 - Radio observation and demodulation with Sebastin Buettrich
 - Satellite dish link budgets exercise
 - Session 3 project discussion space
--- Aarhus Ground Station with Eric Weiss
+    - Aarhus Ground Station with Eric Weiss
+    - other projects
 
 # Catering
 
