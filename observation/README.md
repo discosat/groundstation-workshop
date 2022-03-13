@@ -18,6 +18,8 @@
     * Funcube
     * stronger / more expensive SDR such as HackRF One - SDR 
    * antenna - right hand circularly polarized antenna for 137 MHz
+
+![setup image](rig-setup-diagram.jpg)
     
  ## software requirements
  
