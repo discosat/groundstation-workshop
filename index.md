@@ -8,9 +8,15 @@ The DISCO project is building both fixed ground stations at the participating un
 
 In this workshop we cover the basics of ground station operation and building including demos and a chance to get hands on experience with a range of equipment, both mobile and some new fixed equipment that will be installed at ITU.
 
-# Website
+# Websites
 
-<https://discosat.dk/index.php/2022/01/groundstation-workshop/>
+Workshop page https://discosat.github.io/groundstation-workshop
+
+Workshop repo https://github.com/discosat/groundstation-workshop
+
+Workshop wiki https://github.com/discosat/groundstation-workshop/wiki
+
+Project page <https://discosat.dk/index.php/2022/01/groundstation-workshop/>
 
 # Location
 
