@@ -31,7 +31,6 @@ https://www.wimo.com/en/x-quad#?756=8582
 ## 70cm / 432 MHz Helical
 
 https://www.wimo.com/en/helix-70
-
 ## 60cm Dish S-Band and feed
 
 http://www.jrmiller.online/products/s_ant.html
