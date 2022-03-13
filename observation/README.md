@@ -139,6 +139,7 @@ wxtoimg -t n /path/to/input.wav /path/to/output.png
 or interactively with noaa-apt tool:
 decode - process - save.
 
+test data for a dry run: https://noaa-apt.mbernardi.com.ar/examples/argentina.wav
 
 ## what else?
 
@@ -149,15 +150,10 @@ decode - process - save.
 
 https://www.rtl-sdr.com/rtl-sdr-tutorial-receiving-noaa-weather-satellite-images/
 
+https://www.rtl-sdr.com/simple-noaameteor-weather-satellite-antenna-137-mhz-v-dipole/
+
 https://oz9aec.net/radios/gnu-radio/noaa-apt-reception-with-gqrx-and-rtlsdr
 
 https://oz9aec.net/radios/gnu-radio/howto-receive-and-decode-noaa-apt-images-with-the-funcube-dongle-and-gqrx
 
 
-  * point
-  * point
-
-```
-code
-
-```
