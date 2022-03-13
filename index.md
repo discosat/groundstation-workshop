@@ -54,7 +54,8 @@ The day is structured in 3 workshop sessions and a number of topics. Try 2 or 3 
 - Satellite antenna mounting with Jonas and Emil
 - Radio observation and demodulation with Sebastin Buettrich
 - Satellite dish link budgets exercise
-- Project Space - workshop your own projects
+- Session 3 project discussion space
+-- Aarhus Ground Station with Eric Weiss
 
 # Catering
 
