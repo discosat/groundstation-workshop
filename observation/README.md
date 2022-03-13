@@ -117,6 +117,15 @@ good settings for recording NOAA data:
 
 details on tuning and filter: https://oz9aec.net/radios/gnu-radio/howto-receive-and-decode-noaa-apt-images-with-the-funcube-dongle-and-gqrx
 
+a good signal should look like this:
+
+![NOAA_signal image](NOAA_APT_Wide.png)
+
+![NOAA_signal image](NOAA_APT_Zoom-203x500.png)
+
+
+
+
 start recording when satellite pass windows starts, stop when it's over.
 
 convert signal to 11205:
@@ -142,6 +151,10 @@ or interactively with noaa-apt tool:
 decode - process - save.
 
 test data for a dry run: https://noaa-apt.mbernardi.com.ar/examples/argentina.wav
+
+plenty more examples are here at the satnogs archive:
+
+https://network.satnogs.org/observations/?future=0&bad=0&unknown=0&failed=0&norad=28654
 
 ## what else?
 
