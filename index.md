@@ -11,15 +11,19 @@ In this workshop we cover the basics of ground station operation and building in
 # Websites
 
 [Workshop page] (https://discosat.github.io/groundstation-workshop)
+
 <https://discosat.github.io/groundstation-workshop/>
 
 [Workshop repo] (https://github.com/discosat/groundstation-workshop)
+
 <https://github.com/discosat/groundstation-workshop>
 
 [Workshop wiki](https://github.com/discosat/groundstation-workshop/wiki)
+
 <https://github.com/discosat/groundstation-workshop/wiki>
 
 [Project page](https://discosat.dk/index.php/2022/01/groundstation-workshop)
+
 <https://discosat.dk/index.php/2022/01/groundstation-workshop>
 
 # Location
