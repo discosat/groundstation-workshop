@@ -52,12 +52,9 @@ The day is structured in 3 workshop sessions and a number of topics. Try 2 or 3 
 - Satellite tracking model with Paul Rosero
 - Satellite rotator operation with Julian Priest
 - Satellite antenna mounting with Jonas and Emil
-- Low cost satellite ground station with Eric Weiss
-- Basic SDR and demodulation with Sebastin Buettrich
-- Satellite observation with Julian Priest
-1. 1030
-2. 1211
+- Radio observation and demodulation with Sebastin Buettrich
 - Satellite dish link budgets exercise
+- Project Space - workshop your own projects
 
 # Catering
 
@@ -67,7 +64,7 @@ Lunch can be purchased at the canteen.
 
 # Equipment
 
-Please bring a laptop
+Please bring a laptop.
 
 # Network
 
