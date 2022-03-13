@@ -1,2 +1,2 @@
 # groundstation-workshop
-Groundstation workshop documentation, code and materials
+DISCOSAT Groundstation workshop documentation, code and materials
