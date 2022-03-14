@@ -38,6 +38,8 @@ Source code and the latest release is avalable on GitHub.
 
 https://airspy.com/download/
 
+getting started: https://www.rtl-sdr.com/sdrsharp-users-guide/
+
 
 ### audio tools
 
